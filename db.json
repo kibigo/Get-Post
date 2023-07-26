@@ -1,0 +1,40 @@
+{
+  "beers": [
+    {
+      "id": 1,
+      "company": "EABL",
+      "bottle": "Tusker",
+      "price": 200
+    },
+    {
+      "id": 2,
+      "company": "KWAL",
+      "bottle": "Balozi",
+      "price": 190
+    },
+    {
+      "id": 3,
+      "company": "KEROCHE",
+      "bottle": "Smirnoff",
+      "price": 230
+    },
+    {
+      "id": {},
+      "company": {},
+      "bottle": {},
+      "price": {}
+    },
+    {
+      "id": "4",
+      "company": "Muratina",
+      "bottle": "Cups",
+      "price": "120"
+    },
+    {
+      "id": "5",
+      "company": "UDV",
+      "bottle": "White Cup",
+      "price": "300"
+    }
+  ]
+}
